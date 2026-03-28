@@ -1,6 +1,6 @@
 # mcp-citation-checker
 
-> Built at [The GEO Lab](https://thegeolab.net) — where we measure what AI systems actually cite, not what SEO tools predict.
+> Built at [The GEO Lab](https://thegeolab.net/geo-experiments/) — where we measure what AI systems actually cite, not what SEO tools predict.
 
 
 An MCP (Model Context Protocol) server for checking if domains are cited by AI platforms including Perplexity, ChatGPT, and Google AI Overview.
