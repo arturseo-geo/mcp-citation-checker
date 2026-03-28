@@ -1,0 +1,30 @@
+{
+  "name": "mcp-citation-checker",
+  "version": "1.0.0",
+  "description": "MCP server for checking if domains are cited by AI platforms (Perplexity, ChatGPT, Google AIO)",
+  "type": "module",
+  "main": "./src/index.js",
+  "bin": {
+    "mcp-citation-checker": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "citation",
+    "ai",
+    "perplexity",
+    "chatgpt",
+    "google"
+  ],
+  "author": "Artur Ferreira <artur@thegeolab.net>",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
