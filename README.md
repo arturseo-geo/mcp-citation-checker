@@ -183,3 +183,7 @@ MIT License — see LICENSE file for details
 ## Author
 
 Artur Ferreira <artur@thegeolab.net>
+
+---
+
+Built by [Artur Ferreira](https://thegeolab.net/about/) | [X](https://x.com/TheGEO_Lab) | [LinkedIn](https://linkedin.com/in/arturgeo)
